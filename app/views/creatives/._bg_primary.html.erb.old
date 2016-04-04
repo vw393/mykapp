@@ -1,0 +1,16 @@
+<section class="bg-primary" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-lg-offset-0 text-center">
+                <h2 class="section-heading">SMART kapp™: un disegno è più efficace di 1000 parole!</h2>
+                <hr class="light">
+                <p class="text-faded">La linea di lavagne SMART kapp™ è stata pensata per facilitare la collaborazione.</p>
+                <p class="text-faded">Utilizza un <strong style="color: #FFF;">normale pennarello</strong> lavabile, invia un link via e-mail alle persone che vuoi invitare alla sessione di lavoro e condividi con i partecipanti ciò che stai annotando, cancellando, scarabocchiando - il tutto <strong style="color: #FFF;">in tempo reale</strong>, ovunque essi si trovino, su qualsiasi device stiano usando (smartphones, tablets, Mac, PC).</p>
+                <p class="text-faded"><strong style="color: #FFF;">Salva gli snapshot</strong> delle note su smartphone, tablet o PC con un semplice tap sulla lavagna. Le lavagne SMART kapp™ permettono di visualizzare istantaneamente note, progetti, disegni, idee, e quindi partecipare a un meeting, una sessione di brainstorming, una conference call o una lezione, sia che ci si trovi nella stanza come pure da remoto.
+</p>
+                <a href="#video_demo" class="btn btn-default btn-xl page-scroll">Guarda il Video</a>
+            </div>
+        </div>
+    </div>
+</section>
+
